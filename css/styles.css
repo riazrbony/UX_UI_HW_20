@@ -2,8 +2,12 @@
 
 /* Body styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Montserrat, sans-serif;
     background-color: #f8f9fa; /* Light gray background */
+}
+
+div.a {
+  text-align: center;
 }
 
 /* Navbar styles */
@@ -18,7 +22,7 @@ body {
 
 /* Jumbotron styles */
 .jumbotron {
-  background-image: url("https://i.imgur.com/dXJO6ns.jpeg");
+  background-image: url("");
   background-size: cover;
   
 }
